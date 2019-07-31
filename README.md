@@ -1,2 +1,2 @@
-# Jankenpo-game
-Web jankenpo game using html css and javascript
+# Jankenpon-game
+Web jankenpon game using html css and javascript.
